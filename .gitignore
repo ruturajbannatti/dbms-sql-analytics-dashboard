@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
